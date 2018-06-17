@@ -3,77 +3,77 @@ A basic Remote Administration Tool, for educational purposes. VoidRAT has a Grap
 ### Feature List
 | Status | Feature | Requires Admin |
 | :------------: | :------------ | :------------: |
-| :tw-2705: | Shutdown (with Message) | No |
-| :tw-2705: | Reboot | No |
-| :tw-2705: | Sleep/Wake Up (Monitor) | No |
-| :tw-2705: | Get Network Information | Yes |
-| :tw-2705: | Get Available WiFi Networks | No |
-| :tw-2705: | Recover WiFi Profiles | No |
-| :tw-2705: | Get Running Processes | No |
-| :tw-2705: | Check if a Process Exists | No |
-| :tw-2705: | Attempt to Kill a Process | No |
-| :tw-2705: | Enable/Disable Task Manager | Yes |
-| :tw-2705: | Get Detailed System Information | No |
-| :tw-2705: | Get the List of Installed Programs | Yes |
-| :tw-2705: | Recover Saved Passwords | No |
-| :tw-2705: | Download a File (HTTP) | No |
-| :tw-2705: | Upload a File (HTTP) | No |
-| :tw-2705: | Run an Executable | No |
-| :tw-2705: | Run a Command | No |
-| :tw-2705: | Update Client | No |
-| :tw-2705: | Restart Client | No |
-| :tw-2705: | Uninstall Client | No |
-| :tw-2705: | Ignore Client | No |
-| :tw-2705: | Format the System Drive | No |
-| :tw-2705: | Execute a Script | No |
-| :tw-2705: | Schedule the Execution of a Script | No |
-| :tw-2705: | Execute JS | No |
-| :tw-2705: | Execute VBS | No |
-| :tw-2705: | Halt All Scripts | No |
-| :tw-2705: | XMR Mining | No |
-| :tw-2705: | Floods | No |
-| :tw-2705: | Keylogging | No |
-| :tw-2705: | Open a Webpage | No |
-| :tw-2705: | Change System Volume | No |
-| :tw-2705: | Play a Sound (WAV) | No |
-| :tw-2705: | Beep | No |
-| :tw-2705: | Print a Document | No |
-| :tw-2705: | Open a File | No |
-| :tw-2705: | Messagebox | No |
-| :tw-274c: | Reverse Proxy | No |
-| :tw-2705: | **Remote File Explorer** | No |
-| :tw-2705: | **Screenshare** | No |
-| :tw-2705: | **Webcam** | No |
-| :tw-2705: | **Chat** | No |
-| :tw-2705: | **Remote Command Prompt** | No |
-| :tw-274c: | **Remote PowerShell** | No |
-| :tw-274c: | **System Event Viewer** | Yes |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Shutdown (with Message) | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Reboot | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Sleep/Wake Up (Monitor) | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Get Network Information | Yes |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Get Available WiFi Networks | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Recover WiFi Profiles | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Get Running Processes | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Check if a Process Exists | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Attempt to Kill a Process | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Enable/Disable Task Manager | Yes |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Get Detailed System Information | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Get the List of Installed Programs | Yes |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Recover Saved Passwords | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Download a File (HTTP) | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Upload a File (HTTP) | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Run an Executable | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Run a Command | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Update Client | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Restart Client | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Uninstall Client | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Ignore Client | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Format the System Drive | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Execute a Script | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Schedule the Execution of a Script | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Execute JS | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Execute VBS | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Halt All Scripts | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | XMR Mining | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Floods | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Keylogging | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Open a Webpage | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Change System Volume | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Play a Sound (WAV) | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Beep | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Print a Document | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Open a File | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | Messagebox | No |
+| ![No](https://i.imgur.com/9sVDJry.png) | Reverse Proxy | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | **Remote File Explorer** | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | **Screenshare** | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | **Webcam** | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | **Chat** | No |
+| ![Yes](https://i.imgur.com/R7AgtMd.png) | **Remote Command Prompt** | No |
+| ![No](https://i.imgur.com/9sVDJry.png) | **Remote PowerShell** | No |
+| ![No](https://i.imgur.com/9sVDJry.png) | **System Event Viewer** | Yes |
 ### Bug/To-Do List
 | Type | Bug/To-Do | Affects | Priority | Status |
 | :------------: | :------------ | :------------: | :------------: | :------------: |
-| :tw-1f41b: | Messagebox does not appear on top | Client | Low | Not Fixed |
-| :tw-1f41b: | Webcam module is highly unstable | Client | Medium | Not Fixed |
-| :tw-1f41b: | Communication is single-threaded | Client | High | Not Fixed |
-| :tw-1f41b: | Random memory leaks | Client | Medium | Not Fixed |
-| :tw-1f41b: | The local cursor is not accurate | Client | Low | Not Fixed |
-| :tw-1f41b: | Remote File Explorer is generally slow | Server | Low | Not Fixed |
-| :tw-1f41b: | The Tasks panel is not updated regularly | Server | Low | Not Fixed |
-| :tw-1f41b: | Single Tasks wait for background replies | Server | Medium | Not Fixed |
-| :tw-1f41b: | Network Information is not returned | Client | Medium | Not Fixed |
-| :tw-1f41b: | No exception mechanism is in place | Client | High | Not Fixed |
-| :tw-1f41b: | Admin commands are unstable | Client | Low | Not Fixed |
-| :tw-1f4d8: | Some arrays are 1-indexed | Server | Low | Not Done |
-| :tw-1f4d8: | Some loop variables are global | Server | Medium | Not Done |
-| :tw-1f4d8: | Improve the Remote File Explorer | Server | Low | Not Done |
-| :tw-1f4d8: | Clean up the Communication unit | Server | Medium | Not Done |
-| :tw-1f4d8: | Fix the GetParams function | Client | Low | Not Done |
-| :tw-1f4d8: | Improve persistence | Client | Medium | Not Done |
-| :tw-1f4d8: | Add the Manifest Cloner | Server | Medium | Not Done |
-| :tw-1f4d8: | Implement Anti-Debugging code | Client | Medium | Not Done |
-| :tw-1f4d8: | Implement Process Protection | Client | Medium | Not Done |
-| :tw-1f4d8: | **Finish the Builder** | Server | High | Not Done |
-| :tw-1f4d8: | **Add Settings** | Server | High | Not Done |
-| :tw-1f4d8: | **Add Statistics** | Server | High | Not Done |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Messagebox does not appear on top | Client | Low | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Webcam module is highly unstable | Client | Medium | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Communication is single-threaded | Client | High | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Random memory leaks | Client | Medium | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | The local cursor is not accurate | Client | Low | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Remote File Explorer is generally slow | Server | Low | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | The Tasks panel is not updated regularly | Server | Low | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Single Tasks wait for background replies | Server | Medium | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Network Information is not returned | Client | Medium | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | No exception mechanism is in place | Client | High | Not Fixed |
+| ![Bug](https://i.imgur.com/7Ijf4P9.png) | Admin commands are unstable | Client | Low | Not Fixed |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Some arrays are 1-indexed | Server | Low | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Some loop variables are global | Server | Medium | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Improve the Remote File Explorer | Server | Low | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Clean up the Communication unit | Server | Medium | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Fix the GetParams function | Client | Low | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Improve persistence | Client | Medium | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Add the Manifest Cloner | Server | Medium | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Implement Anti-Debugging code | Client | Medium | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | Implement Process Protection | Client | Medium | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | **Finish the Builder** | Server | High | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | **Add Settings** | Server | High | Not Done |
+| ![ToDo](https://i.imgur.com/cxf35M3.png) | **Add Statistics** | Server | High | Not Done |
 ### Screenshots
 ![Control Interface](https://i.imgur.com/erv0QLD.png)
 ![Tasks Panel](https://i.imgur.com/admQ9mD.png)
