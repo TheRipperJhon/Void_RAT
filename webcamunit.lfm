@@ -1,0 +1,25 @@
+object WebcamForm: TWebcamForm
+  Left = 304
+  Height = 480
+  Top = 128
+  Width = 640
+  Caption = 'Webcam'
+  ClientHeight = 480
+  ClientWidth = 640
+  Color = 4403713
+  OnCloseQuery = FormCloseQuery
+  LCLVersion = '1.8.0.6'
+  object CamImage: TImage
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 480
+    Top = 0
+    Width = 640
+    Anchors = [akTop, akLeft, akRight, akBottom]
+  end
+end

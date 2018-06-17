@@ -1,0 +1,70 @@
+object RemoteCMDForm: TRemoteCMDForm
+  Left = 296
+  Height = 340
+  Top = 122
+  Width = 675
+  Caption = 'Remote Command Prompt'
+  ClientHeight = 340
+  ClientWidth = 675
+  Color = 4403713
+  OnCloseQuery = FormCloseQuery
+  LCLVersion = '1.8.0.6'
+  object Console: TMemo
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = CommandEDT
+    Left = 5
+    Height = 284
+    Top = 2
+    Width = 670
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    BorderSpacing.Left = 5
+    BorderSpacing.Top = 2
+    BorderSpacing.Bottom = 2
+    BorderStyle = bsNone
+    Color = 4403713
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -13
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    Lines.Strings = (
+      'Hold on...'
+    )
+    OnChange = ConsoleChange
+    ParentFont = False
+    ReadOnly = True
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+  end
+  object CommandEDT: TEdit
+    AnchorSideLeft.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 52
+    Top = 288
+    Width = 675
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    AutoSelect = False
+    Color = 4403713
+    Enabled = False
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -13
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    OnClick = CommandEDTClick
+    OnKeyDown = CommandEDTKeyDown
+    ParentFont = False
+    TabStop = False
+    TabOrder = 1
+    Text = 'Enter a command...'
+  end
+end

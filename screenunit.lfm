@@ -1,0 +1,142 @@
+object ScreenForm: TScreenForm
+  Left = 297
+  Height = 500
+  Top = 119
+  Width = 1140
+  Caption = 'Screenshare'
+  ClientHeight = 500
+  ClientWidth = 1140
+  Color = 4403713
+  KeyPreview = True
+  OnCloseQuery = FormCloseQuery
+  OnKeyDown = FormKeyDown
+  OnKeyUp = FormKeyUp
+  LCLVersion = '1.8.0.6'
+  object SettingsPanel: TPanel
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 890
+    Height = 500
+    Top = 0
+    Width = 250
+    Anchors = [akTop, akRight, akBottom]
+    BorderSpacing.Left = 5
+    ClientHeight = 500
+    ClientWidth = 250
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -15
+    Font.Name = 'Lato'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 0
+    object CursorCheck: TCheckBox
+      Left = 40
+      Height = 19
+      Top = 30
+      Width = 20
+      OnChange = CursorCheckChange
+      TabOrder = 0
+    end
+    object CursorLabel: TLabel
+      Left = 62
+      Height = 18
+      Top = 30
+      Width = 140
+      Caption = 'Show Remote Cursor'
+      ParentColor = False
+    end
+    object KeysLabel: TLabel
+      Left = 62
+      Height = 18
+      Top = 58
+      Width = 110
+      Caption = 'Send Keystrokes'
+      ParentColor = False
+    end
+    object KeysCheck: TCheckBox
+      Left = 40
+      Height = 19
+      Top = 58
+      Width = 20
+      TabOrder = 1
+    end
+    object ClickLabel: TLabel
+      Left = 62
+      Height = 18
+      Top = 86
+      Width = 126
+      Caption = 'Send Mouse Clicks'
+      ParentColor = False
+    end
+    object ClickCheck: TCheckBox
+      Left = 40
+      Height = 19
+      Top = 86
+      Width = 20
+      TabOrder = 2
+    end
+    object MoveLabel: TLabel
+      Left = 62
+      Height = 18
+      Top = 114
+      Width = 158
+      Caption = 'Send Mouse Movement'
+      ParentColor = False
+    end
+    object MoveCheck: TCheckBox
+      Left = 40
+      Height = 19
+      Top = 114
+      Width = 20
+      TabOrder = 3
+    end
+    object CompressTrackBar: TTrackBar
+      Left = 16
+      Height = 25
+      Top = 208
+      Width = 220
+      Max = 100
+      Min = 1
+      OnChange = CompressTrackBarChange
+      PageSize = 10
+      Position = 75
+      TickMarks = tmBoth
+      TickStyle = tsNone
+      Color = 4403713
+      ParentColor = False
+      TabOrder = 4
+    end
+    object CompressLabel: TLabel
+      Left = 56
+      Height = 18
+      Top = 184
+      Width = 139
+      Caption = 'Compression Quality'
+      ParentColor = False
+    end
+  end
+  object Scr: TImage
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 500
+    Top = 0
+    Width = 890
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    BorderSpacing.Right = 250
+    Center = True
+    OnMouseDown = ScrMouseDown
+    OnMouseMove = ScrMouseMove
+    OnMouseUp = ScrMouseUp
+    Proportional = True
+  end
+end

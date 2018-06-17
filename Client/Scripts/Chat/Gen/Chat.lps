@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="Chat.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="3" Y="19"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="chatunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ChatForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ChatUnit"/>
+        <CursorPos X="78" Y="7"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:\Lazarus\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="76"/>
+        <CursorPos X="3" Y="102"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\Lazarus\lcl\include\rasterimage.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="247"/>
+        <CursorPos X="91" Y="293"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="keylogger.pas"/>
+        <UnitName Value="Keylogger"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="26"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:\Lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="914"/>
+        <CursorPos Y="940"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\flood.pas"/>
+        <UnitName Value="Flood"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="142" Column="37" TopLine="97"/>
+      </Position1>
+      <Position2>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="75" Column="77" TopLine="63"/>
+      </Position2>
+      <Position3>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="9" Column="7"/>
+      </Position3>
+      <Position4>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="92" Column="19" TopLine="71"/>
+      </Position4>
+      <Position5>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="80" Column="16" TopLine="46"/>
+      </Position5>
+      <Position6>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="92" Column="6"/>
+      </Position6>
+      <Position7>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="74" Column="6" TopLine="48"/>
+      </Position7>
+      <Position8>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="78" Column="6"/>
+      </Position8>
+      <Position9>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="74" Column="8" TopLine="48"/>
+      </Position9>
+      <Position10>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="77" Column="23" TopLine="45"/>
+      </Position10>
+      <Position11>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="8" Column="85"/>
+      </Position11>
+      <Position12>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="41" Column="15" TopLine="16"/>
+      </Position12>
+      <Position13>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="71" Column="17" TopLine="46"/>
+      </Position13>
+      <Position14>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="94" TopLine="57"/>
+      </Position14>
+      <Position15>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="21" Column="67"/>
+      </Position15>
+      <Position16>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="125" Column="68" TopLine="102"/>
+      </Position16>
+      <Position17>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="247" Column="18" TopLine="203"/>
+      </Position17>
+      <Position18>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="226" TopLine="186"/>
+      </Position18>
+      <Position19>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="228" TopLine="186"/>
+      </Position19>
+      <Position20>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="229" TopLine="186"/>
+      </Position20>
+      <Position21>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="230" TopLine="186"/>
+      </Position21>
+      <Position22>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="231" TopLine="186"/>
+      </Position22>
+      <Position23>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="232" TopLine="187"/>
+      </Position23>
+      <Position24>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="216" TopLine="187"/>
+      </Position24>
+      <Position25>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="234" TopLine="189"/>
+      </Position25>
+      <Position26>
+        <Filename Value="D:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="940" TopLine="914"/>
+      </Position26>
+      <Position27>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="147" Column="14" TopLine="120"/>
+      </Position27>
+      <Position28>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="230" Column="65" TopLine="185"/>
+      </Position28>
+      <Position29>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="226" Column="7" TopLine="204"/>
+      </Position29>
+      <Position30>
+        <Filename Value="chatunit.pas"/>
+        <Caret Line="189" Column="3" TopLine="181"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

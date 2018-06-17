@@ -1,0 +1,58 @@
+object ChatForm: TChatForm
+  Left = 299
+  Height = 390
+  Top = 121
+  Width = 375
+  Caption = 'Chat'
+  ClientHeight = 390
+  ClientWidth = 375
+  Color = 4403713
+  LCLVersion = '1.8.0.6'
+  object ChatLog: TMemo
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    Left = 0
+    Height = 300
+    Top = 0
+    Width = 375
+    Anchors = [akTop, akLeft, akRight]
+    BorderStyle = bsNone
+    Color = 4403713
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 0
+  end
+  object MessageEdit: TEdit
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = ChatLog
+    AnchorSideTop.Side = asrBottom
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 90
+    Top = 300
+    Width = 375
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    AutoSize = False
+    AutoSelect = False
+    Color = 4403713
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -15
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentFont = False
+    TabOrder = 1
+    TextHint = 'Type your message...'
+  end
+end

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="31">
+      <Unit0>
+        <Filename Value="VoidClient.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="398"/>
+        <CursorPos X="12" Y="410"/>
+        <UsageCount Value="199"/>
+        <Bookmarks Count="4">
+          <Item0 X="17" Y="82" ID="1"/>
+          <Item1 X="15" Y="846" ID="2"/>
+          <Item2 Y="97" ID="5"/>
+          <Item3 X="5" Y="346" ID="6"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="brain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Brain"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="183"/>
+        <CursorPos X="29" Y="197"/>
+        <UsageCount Value="199"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="voidmodules.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VoidModules"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="39"/>
+        <CursorPos X="26" Y="83"/>
+        <UsageCount Value="192"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="flood.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Flood"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="28" Y="26"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="keylogger.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Keylogger"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="120"/>
+        <CursorPos X="30" Y="172"/>
+        <UsageCount Value="34"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="chatunit.pas"/>
+        <ComponentName Value="ChatForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ChatUnit"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="9" Y="25"/>
+        <UsageCount Value="17"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="439"/>
+        <CursorPos X="10" Y="465"/>
+        <UsageCount Value="6"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\Users\User\AppData\Local\lazarus\onlinepackagemanager\packages\Indy10\System\IdBaseComponent.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="146"/>
+        <CursorPos Y="179"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="TLHelp32.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="300"/>
+        <CursorPos X="67" Y="320"/>
+        <UsageCount Value="7"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="6" Y="111"/>
+        <UsageCount Value="5"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="Scripts\Passes.lrs"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="219"/>
+        <CursorPos X="14" Y="245"/>
+        <UsageCount Value="7"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\win\wininc\func.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="195"/>
+        <CursorPos X="10" Y="221"/>
+        <UsageCount Value="49"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\win\wininc\struct.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8350"/>
+        <CursorPos X="6" Y="8376"/>
+        <UsageCount Value="5"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\lazarus\lcl\include\winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="354"/>
+        <CursorPos X="50" Y="375"/>
+        <UsageCount Value="5"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="D:\lazarus\lcl\interfacebase.pp"/>
+        <UnitName Value="InterfaceBase"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="185"/>
+        <CursorPos X="3" Y="211"/>
+        <UsageCount Value="5"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="D:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1807"/>
+        <CursorPos X="3" Y="1833"/>
+        <UsageCount Value="32"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\packages\fcl-image\src\fpwritejpeg.pas"/>
+        <UnitName Value="FPWriteJPEG"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="69" Y="30"/>
+        <UsageCount Value="32"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\VoidRAT.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="11"/>
+        <UsageCount Value="6"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="D:\lazarus\lcl\include\winapih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="96"/>
+        <CursorPos X="10" Y="122"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="D:\lazarus\lcl\interfaces\win32\win32proc.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="726"/>
+        <CursorPos X="49" Y="732"/>
+        <UsageCount Value="6"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\lazarus\Mods\WebCam.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1678"/>
+        <CursorPos X="15" Y="1702"/>
+        <UsageCount Value="6"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\Users\User\AppData\Local\lazarus\onlinepackagemanager\packages\Indy10\Core\IdUDPClient.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="499"/>
+        <CursorPos X="14" Y="147"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\inc\resh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <CursorPos X="10" Y="56"/>
+        <UsageCount Value="10"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\win64\classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="20" Y="31"/>
+        <UsageCount Value="12"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="335"/>
+        <CursorPos X="10" Y="361"/>
+        <UsageCount Value="11"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\objpas\math.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="121"/>
+        <CursorPos X="8" Y="147"/>
+        <UsageCount Value="12"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\packages\rtl-objpas\src\inc\dateutil.pp"/>
+        <UnitName Value="dateutils"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="appendutils.pas"/>
+        <UnitName Value="AppendUtils"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="102"/>
+        <CursorPos Y="147"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="D:\lazarus\fpc\3.0.4\source\rtl\win64\system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="2" Y="39"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="412" TopLine="389"/>
+      </Position1>
+      <Position2>
+        <Filename Value="appendutils.pas"/>
+        <Caret Line="143" TopLine="102"/>
+      </Position2>
+      <Position3>
+        <Filename Value="appendutils.pas"/>
+        <Caret Line="144" TopLine="102"/>
+      </Position3>
+      <Position4>
+        <Filename Value="appendutils.pas"/>
+        <Caret Line="145" TopLine="102"/>
+      </Position4>
+      <Position5>
+        <Filename Value="appendutils.pas"/>
+        <Caret Line="146" TopLine="102"/>
+      </Position5>
+      <Position6>
+        <Filename Value="appendutils.pas"/>
+        <Caret Line="143" TopLine="102"/>
+      </Position6>
+      <Position7>
+        <Filename Value="appendutils.pas"/>
+        <Caret Line="147" TopLine="102"/>
+      </Position7>
+      <Position8>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="415" TopLine="389"/>
+      </Position8>
+      <Position9>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="407" Column="20" TopLine="388"/>
+      </Position9>
+      <Position10>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="411" TopLine="388"/>
+      </Position10>
+      <Position11>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="367" TopLine="342"/>
+      </Position11>
+      <Position12>
+        <Filename Value="brain.pas"/>
+        <Caret Line="170" TopLine="146"/>
+      </Position12>
+      <Position13>
+        <Filename Value="brain.pas"/>
+        <Caret Line="168" TopLine="146"/>
+      </Position13>
+      <Position14>
+        <Filename Value="brain.pas"/>
+        <Caret Line="171" TopLine="146"/>
+      </Position14>
+      <Position15>
+        <Filename Value="brain.pas"/>
+        <Caret Line="172" TopLine="146"/>
+      </Position15>
+      <Position16>
+        <Filename Value="brain.pas"/>
+        <Caret Line="173" TopLine="146"/>
+      </Position16>
+      <Position17>
+        <Filename Value="brain.pas"/>
+        <Caret Line="174" TopLine="146"/>
+      </Position17>
+      <Position18>
+        <Filename Value="brain.pas"/>
+        <Caret Line="175" TopLine="146"/>
+      </Position18>
+      <Position19>
+        <Filename Value="brain.pas"/>
+        <Caret Line="176" TopLine="146"/>
+      </Position19>
+      <Position20>
+        <Filename Value="brain.pas"/>
+        <Caret Line="171" TopLine="146"/>
+      </Position20>
+      <Position21>
+        <Filename Value="brain.pas"/>
+        <Caret Line="180" TopLine="146"/>
+      </Position21>
+      <Position22>
+        <Filename Value="brain.pas"/>
+        <Caret Line="170" TopLine="146"/>
+      </Position22>
+      <Position23>
+        <Filename Value="brain.pas"/>
+        <Caret Line="181" TopLine="146"/>
+      </Position23>
+      <Position24>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="368" TopLine="342"/>
+      </Position24>
+      <Position25>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="369" TopLine="342"/>
+      </Position25>
+      <Position26>
+        <Filename Value="brain.pas"/>
+        <Caret Line="187" TopLine="146"/>
+      </Position26>
+      <Position27>
+        <Filename Value="brain.pas"/>
+        <Caret Line="184" TopLine="146"/>
+      </Position27>
+      <Position28>
+        <Filename Value="brain.pas"/>
+        <Caret Line="185" Column="16" TopLine="153"/>
+      </Position28>
+      <Position29>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="369" TopLine="342"/>
+      </Position29>
+      <Position30>
+        <Filename Value="VoidClient.lpr"/>
+        <Caret Line="376" Column="33" TopLine="348"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="6">
+      <Item1>
+        <Expression Value="Reg"/>
+      </Item1>
+      <Item2>
+        <Expression Value="Fol"/>
+      </Item2>
+      <Item3>
+        <Expression Value="Tas"/>
+      </Item3>
+      <Item4>
+        <Expression Value="J"/>
+      </Item4>
+      <Item5>
+        <Expression Value="Ex"/>
+      </Item5>
+      <Item6>
+        <Expression Value="Mode"/>
+      </Item6>
+    </Watches>
+  </Debugging>
+</CONFIG>

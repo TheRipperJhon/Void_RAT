@@ -1,0 +1,3 @@
+Passes is an external module, namely NirSoft's WebBrowserPassView.
+From NirSoft's webpage:
+    >>This utility is released as freeware. You are allowed to freely use it at your home or in your company.

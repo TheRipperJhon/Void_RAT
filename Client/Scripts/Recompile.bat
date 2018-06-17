@@ -1,0 +1,1 @@
+D:\lazarus\tools\lazres.exe Chat.lrs Chat\Gen\Chat.exe
